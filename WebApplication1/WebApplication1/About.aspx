@@ -3,6 +3,6 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <p>Your app description page. Jason new rep first test from local</p>
-    <p> Michelle changed this for the third time</p>
+    <p>Jason's newest change</p>
     <p>Use this area to provide additional information.</p>
 </asp:Content>
