@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <p>Your app description page. Jason new rep first test from local</p>
-    <p>Jason's newest change</p>
+    <p>Your app description page. Jason new rep first test from web</p>
+    <p>Jason's newest change from web</p>
     <p>Use this area to provide additional information.</p>
 </asp:Content>
